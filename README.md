@@ -1,3 +1,3 @@
-# hearts2
+# hearts
 
 https://edusnches.github.io/hearts2/
