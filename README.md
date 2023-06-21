@@ -1,3 +1,3 @@
 # heart
 
-https://edusnches.github.io/hearts2/
+https://eduches.github.io/hearts2/
